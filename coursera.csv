@@ -1,0 +1,492 @@
+Id,course_title,rating,num_subscribers,level,language,category,plataforma
+machine-learning,Machine Learning,4.7,290000.0,,,,Coursera
+machine-learning,Machine Learning,4.7,32000000.0,,,,Coursera
+indigenous-canada,Indigenous Canada,4.8,51000.0,All,,,Coursera
+the-science-of-well-being,The Science of Well-Being,4.9,25000000.0,All,,,Coursera
+technical-support-fundamentals,Technical Support Fundamentals,4.8,280000.0,Beginner,English,Support and Operations,Coursera
+technical-support-fundamentals,Technical Support Fundamentals,4.8,280000.0,Beginner,English,Support and Operations,Coursera
+google-cbrs-cpi-training,Become a CBRS Certified Professional Installer by Google,4.8,210000.0,,,,Coursera
+financial-markets-global,Financial Markets,4.8,470000.0,Beginner,,,Coursera
+introduction-psychology,Introduction to Psychology,4.9,270000.0,Beginner,,,Coursera
+introduction-psychology,Introduction to Psychology,4.9,270000.0,All,,,Coursera
+python,Programming for Everybody (Getting Started with Python),4.6,13000000.0,,English,Software Development,Coursera
+computer-networking,The Bits and Bytes of Computer Networking,4.6,130000.0,Beginner,English,Networking,Coursera
+computer-networking,The Bits and Bytes of Computer Networking,4.6,130000.0,Beginner,English,Networking,Coursera
+ai-for-everyone,AI For Everyone,4.8,350000.0,,,,Coursera
+python-crash-course,Crash Course on Python,4.7,81000.0,Beginner,English,Support and Operations,Coursera
+psychological-first-aid,Psychological First Aid,4.8,190000.0,,,,Coursera
+neural-networks-deep-learning,Neural Networks and Deep Learning,4.8,630000.0,,,,Coursera
+what-is-datascience,What is Data Science?,4.6,260000.0,,,,Coursera
+negotiation-skills,Successful Negotiation: Essential Strategies and Skills,4.8,750000.0,,English,Business Essentials,Coursera
+uva-darden-project-management,Fundamentals of Project Planning and Management,4.8,120000.0,,,,Coursera
+project-management,Project Launch,4.4,190000.0,,,,Coursera
+brand,"Brand Management: Aligning Business, Brand and Behaviour",4.9,57000.0,Beginner,,,Coursera
+sciwrite,Writing in the Sciences,4.9,140000.0,Beginner,,,Coursera
+food-and-health,Stanford Introduction to Food and Health,4.7,370000.0,Beginner,,,Coursera
+html-css-javascript-for-web-developers,"HTML, CSS, and Javascript for Web Developers",4.8,240000.0,,English,Mobile and Web Development,Coursera
+excel-essentials,Excel Skills for Business: Essentials,4.9,200000.0,Beginner,English,Business Essentials,Coursera
+excel-essentials,Excel Skills for Business: Essentials,4.9,200000.0,Beginner,English,Business Essentials,Coursera
+everyday-excel-part-1,"Everyday Excel, Part 1",4.8,11000.0,,,,Coursera
+wharton-contagious-viral-marketing,Viral Marketing and How to Craft Contagious Content,4.8,150000.0,,,,Coursera
+python-data,Python Data Structures,4.8,420000.0,,,,Coursera
+private-equity,Private Equity and Venture Capital,4.8,79000.0,All,,,Coursera
+learn-korean,First Step Korean,4.9,400000.0,Beginner,,,Coursera
+introduction-tensorflow,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,150000.0,,,,Coursera
+os-power-user,Operating Systems and You: Becoming a Power User,4.5,76000.0,,,,Coursera
+open-source-tools-for-data-science,Tools for Data Science,4.0,120000.0,,,,Coursera
+deep-neural-network,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",4.8,270000.0,,,,Coursera
+clinical-trials,Design and Interpretation of Clinical Trials,4.7,67000.0,,,,Coursera
+mafash,Management of Fashion and Luxury Companies,4.7,120000.0,All,,,Coursera
+pap,Primeros Auxilios Psicológicos (PAP),4.9,280000.0,All,,,Coursera
+social-psychology,Social Psychology,4.8,220000.0,Beginner,,,Coursera
+project-planning,Initiating and Planning Projects,4.7,180000.0,,,,Coursera
+computational-thinking-problem-solving,Computational Thinking for Problem Solving,4.6,33000.0,,,,Coursera
+agile-atlassian-jira,Agile with Atlassian Jira,4.7,40000.0,Beginner,,,Coursera
+fundamentals-of-graphic-design,Fundamentals of Graphic Design,4.8,290000.0,Beginner,English,Music and Art,Coursera
+user-experience-design,Introduction to User Experience Design,4.5,87000.0,Beginner,,,Coursera
+wharton-marketing,Introduction to Marketing,4.7,220000.0,,,,Coursera
+python-for-applied-data-science-ai,Python for Data Science and AI,4.3,170000.0,,,,Coursera
+wharton-quantitative-modeling,Fundamentals of Quantitative Modeling,4.5,110000.0,,,,Coursera
+linear-algebra-machine-learning,Mathematics for Machine Learning: Linear Algebra,4.6,140000.0,,,,Coursera
+python-data-analysis,Introduction to Data Science in Python,4.2,390000.0,,,,Coursera
+introduction-psych,Introduction to Psychology,4.9,270000.0,Beginner,,,Coursera
+introduction-psych,Introduction to Psychology,4.9,270000.0,All,,,Coursera
+careerdevelopment,English for Career Development,4.9,760000.0,,English,Learning English,Coursera
+global-diplomacy,Global Diplomacy – Diplomacy in the Modern World,4.6,79000.0,All,,,Coursera
+game-theory-1,Game Theory,,260000.0,Beginner,English,Economics,Coursera
+game-theory-1,Game Theory,,260000.0,Beginner,English,Economics,Coursera
+sql-for-data-science,SQL for Data Science,4.5,160000.0,Beginner,English,Data Analysis,Coursera
+sql-for-data-science,SQL for Data Science,4.5,160000.0,Beginner,English,Data Analysis,Coursera
+professional-emails-english,Write Professional Emails in English,4.8,270000.0,,,,Coursera
+medical-neuroscience,Medical Neuroscience,4.9,170000.0,Expert,,,Coursera
+system-administration-it-infrastructure-services,System Administration and IT Infrastructure Services,4.7,62000.0,,,,Coursera
+womens-health-human-rights,International Women's Health and Human Rights,4.9,35000.0,Beginner,,,Coursera
+childnutrition,Child Nutrition and Cooking,4.8,30000.0,Beginner,,,Coursera
+neurobiology,Understanding the Brain: The Neurobiology of Everyday Life,4.9,130000.0,Beginner,,,Coursera
+forensic-accounting,Forensic Accounting and Fraud Examination,4.7,42000.0,All,,,Coursera
+clinical-terminology,Clinical Terminology for International and U.S. Students,4.8,32000.0,Beginner,,,Coursera
+science-exercise,Science of Exercise,4.8,140000.0,,,,Coursera
+uva-darden-digital-product-management,Digital Product Management: Modern Fundamentals,4.7,58000.0,,,,Coursera
+datasciencemathskills,Data Science Math Skills,4.4,140000.0,,,,Coursera
+machine-learning-projects,Structuring Machine Learning Projects,4.7,220000.0,,,,Coursera
+american-law,An Introduction to American Law,4.8,23000.0,Beginner,,,Coursera
+content-marketing,The Strategy of Content Marketing,4.5,100000.0,Intermediate,,,Coursera
+introduction-cybersecurity-cyber-attacks,Introduction to Cybersecurity Tools & Cyber Attacks,4.3,30000.0,,,,Coursera
+data-scientists-tools,The Data Scientist’s Toolbox,4.5,420000.0,,English,Data Analysis,Coursera
+data-scientists-tools,The Data Scientist’s Toolbox,4.5,420000.0,,English,Data Analysis,Coursera
+data-scientists-tools,The Data Scientist’s Toolbox,4.5,420000.0,,English,Data Analysis,Coursera
+animal-welfare,Animal Behaviour and Welfare,4.8,71000.0,All,,,Coursera
+convolutional-neural-networks-tensorflow,Convolutional Neural Networks in TensorFlow,4.5,46000.0,,,,Coursera
+positive-psychology-visionary-science,Positive Psychology: Martin E. P. Seligman’s Visionary Science,4.9,50000.0,,,,Coursera
+cancer,Introduction to the Biology of Cancer,4.8,110000.0,,,,Coursera
+convolutional-neural-networks,Convolutional Neural Networks,3.9,240000.0,,,,Coursera
+python-network-data,Using Python to Access Web Data,4.7,310000.0,,,,Coursera
+physiology,Introductory Human Physiology,4.8,270000.0,All,,,Coursera
+systematic-review,Introduction to Systematic Review and Meta-Analysis,4.8,67000.0,,,,Coursera
+communication-strategies-virtual-age,Communication Strategies for a Virtual Age,4.8,43000.0,Beginner,English,Leadership and Management,Coursera
+moral-politics,Moral Foundations of Politics,4.9,100000.0,All,,,Coursera
+etudier-en-france,Étudier en France: French Intermediate course B1-B2,4.8,190000.0,Intermediate,,,Coursera
+finance-for-non-finance,Finance for Non-Finance Professionals,4.8,69000.0,,,,Coursera
+site-reliability-engineering-slos,Site Reliability Engineering: Measuring and Managing Reliability,4.2,16000.0,Intermediate,English,Cloud Computing,Coursera
+autism-spectrum-disorder,Autism Spectrum Disorder,4.6,56000.0,,,,Coursera
+data-science-methodology,Data Science Methodology,4.3,89000.0,,,,Coursera
+wharton-accounting,Introduction to Financial Accounting,4.8,200000.0,,,,Coursera
+marketing-digital,Marketing in a Digital World,4.7,310000.0,,,,Coursera
+financial-engineering-1,Financial Engineering and Risk Management Part I,4.4,100000.0,,,,Coursera
+philosophy,Introduction to Philosophy,4.7,370000.0,,,,Coursera
+python-basics,Python Basics,4.8,110000.0,,,,Coursera
+sustainability,Introduction to Sustainability,4.8,69000.0,,,,Coursera
+positive-psychiatry,Positive Psychiatry and Mental Health,4.8,72000.0,All,,,Coursera
+teach-online,Learning to Teach Online,4.8,68000.0,Beginner,,,Coursera
+it-security,IT Security: Defense against the digital dark arts,4.8,62000.0,,,,Coursera
+neuromarketing,An Introduction to Consumer Neuroscience & Neuromarketing,4.6,69000.0,Beginner,,,Coursera
+gamification,Gamification,4.8,110000.0,,,,Coursera
+algorithms-divide-conquer,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",,130000.0,,,,Coursera
+contabilidad,Contabilidad para no contadores,4.8,220000.0,Beginner,,,Coursera
+python-operating-system,Using Python to Interact with the Operating System,4.6,19000.0,Beginner,English,Support and Operations,Coursera
+cs-fundamentals-1,Object-Oriented Data Structures in C++,4.6,21000.0,,,,Coursera
+gcp-big-data-ml-fundamentals,Google Cloud Platform Big Data and Machine Learning Fundamentals,4.6,120000.0,,,,Coursera
+sql-data-science,Databases and SQL for Data Science,4.4,110000.0,,,,Coursera
+natural-language-processing-tensorflow,Natural Language Processing in TensorFlow,4.3,40000.0,,,,Coursera
+advanced-valuation-and-strategy,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",4.6,29000.0,Expert,,,Coursera
+vital-signs,Vital Signs: Understanding What the Body Is Telling Us,4.8,190000.0,All,,,Coursera
+research-methods,Understanding Research Methods,4.6,120000.0,,English,Research Methods,Coursera
+research-methods,Understanding Research Methods,4.6,120000.0,,English,Research Methods,Coursera
+ibm-customer-engagement-specialist,IBM Customer Engagement Specialist Professional Certificate,4.8,33000.0,,,,Coursera
+introduction-to-calculus,Introduction to Calculus,4.9,53000.0,Intermediate,,,Coursera
+camino-excelencia-gestion-proyectos,Camino a la Excelencia en Gestión de Proyectos,4.6,340000.0,Beginner,,,Coursera
+html,Introduction to HTML5,4.0,220000.0,,,,Coursera
+wine,Wine Tasting: Sensory Techniques for Wine Analysis,4.5,32000.0,,,,Coursera
+excel-intermediate-1,Excel Skills for Business: Intermediate I,4.9,76000.0,Intermediate,English,Business Essentials,Coursera
+excel-intermediate-1,Excel Skills for Business: Intermediate I,4.9,76000.0,Intermediate,English,Business Essentials,Coursera
+duke-programming-web,"Programming Foundations with JavaScript, HTML and CSS",4.5,250000.0,Beginner,English,Mobile and Web Development,Coursera
+build-a-computer,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),4.9,95000.0,,,,Coursera
+food-beverage-management,Food & Beverage Management,4.8,57000.0,All,,,Coursera
+data-analysis-with-python,Data Analysis with Python,4.4,110000.0,,,,Coursera
+uva-darden-getting-started-agile,Agile Meets Design Thinking,4.8,69000.0,Beginner,English,Design and Product,Coursera
+aws-fundamentals-going-cloud-native,AWS Fundamentals: Going Cloud-Native,4.7,110000.0,,,,Coursera
+construction-project-management,Construction Project Management,4.8,43000.0,,,,Coursera
+mathematical-thinking,Introduction to Mathematical Thinking,4.8,270000.0,Intermediate,English,Math and Logic,Coursera
+everyday-parenting,Everyday Parenting: The ABCs of Child Rearing,4.9,86000.0,Beginner,,,Coursera
+machine-learning-with-python,Machine Learning with Python,4.5,120000.0,,,,Coursera
+terrorism,Terrorism and Counterterrorism: Comparing Theory and Practice,4.8,90000.0,Beginner,,,Coursera
+clinical-data-management,Data Management for Clinical Research,4.7,42000.0,Beginner,,,Coursera
+instructional-design-foundations-applications,Instructional Design Foundations and Applications,3.9,12000.0,,,,Coursera
+modern-art-ideas,Modern Art & Ideas,4.8,310000.0,,,,Coursera
+speak-english-professionally,"Speak English Professionally: In Person, Online & On the Phone",4.7,430000.0,,,,Coursera
+gcp-infrastructure-foundation,Essential Google Cloud Infrastructure: Foundation,4.7,83000.0,,,,Coursera
+introduction-to-ai,Introduction to Artificial Intelligence (AI),4.7,44000.0,,,,Coursera
+dog-emotion-and-cognition,Dog Emotion and Cognition,4.7,150000.0,All,,,Coursera
+organizational-behavior,International Leadership and Organizational Behavior,4.8,41000.0,All,,,Coursera
+sdgbusiness,Driving business towards the Sustainable Development Goals,4.9,56000.0,Beginner,,,Coursera
+global-sustainable-development,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",4.8,26000.0,Beginner,,,Coursera
+nlp-sequence-models,Sequence Models,4.6,14000.0,,,,Coursera
+entrepreneur-changement,Devenir entrepreneur du changement,4.7,54000.0,All,,,Coursera
+wharton-entrepreneurship-opportunity,Entrepreneurship 1: Developing the Opportunity,4.8,86000.0,,,,Coursera
+learn-speak-korean1,Learn to Speak Korean 1,4.9,120000.0,Beginner,,,Coursera
+r-programming,R Programming,4.2,480000.0,,,,Coursera
+money-banking,Economics of Money and Banking,4.9,83000.0,,,,Coursera
+grammar-punctuation,Grammar and Punctuation,4.8,430000.0,,,,Coursera
+japanese-1,Japanese for beginners 1,3.6,44000.0,,,,Coursera
+dental-medicine-penn,Introduction to Dental Medicine,4.9,25000.0,Beginner,,,Coursera
+fundamentals-of-reinforcement-learning,Fundamentals of Reinforcement Learning,4.7,22000.0,,,,Coursera
+principles-of-macroeconomics,The Power of Macroeconomics: Economic Principles in the Real World,4.6,180000.0,,,,Coursera
+corp-sustainability,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,4.6,10000.0,All,,,Coursera
+duke-behavioral-finance,Behavioral Finance,4.1,55000.0,All,,,Coursera
+supply-chain-logistics,Supply Chain Logistics,4.7,66000.0,,,,Coursera
+project-execution,Project Execution,3.7,70000.0,,,,Coursera
+nutricion-obesidad-sobrepeso,Nutrición y obesidad: control de sobrepeso,4.8,100000.0,Beginner,,,Coursera
+microeconomics,Microeconomics Principles,4.8,73000.0,Beginner,,,Coursera
+craft-of-plot,Creative Writing: The Craft of Plot,4.6,120000.0,,,,Coursera
+oilandgas,Oil & Gas Industry Operations and Markets,4.8,57000.0,All,,,Coursera
+uva-darden-design-thinking-innovation,Design Thinking for Innovation,4.7,240000.0,,,,Coursera
+learn-to-program,Learn to Program: The Fundamentals,4.7,180000.0,Beginner,,,Coursera
+uva-darden-financial-accounting,Financial Accounting Fundamentals,4.8,65000.0,,,,Coursera
+finding-purpose-and-meaning-in-life,Finding Purpose and Meaning In Life: Living for What Matters Most,4.8,36000.0,,,,Coursera
+clinical-research,Understanding Clinical Research: Behind the Statistics,4.8,78000.0,All,,,Coursera
+epidemiology,Epidemiology: The Basic Science of Public Health,4.7,130000.0,All,,,Coursera
+fashion-design,Fashion as Design,4.8,180000.0,,,,Coursera
+teamwork-skills-effective-communication,Teamwork Skills: Communicating Effectively in Groups,4.8,49000.0,,,,Coursera
+feminism-social-justice,Feminism and Social Justice,4.8,18000.0,Beginner,,,Coursera
+international-organizations-management,International Organizations Management,4.8,20000.0,Beginner,,,Coursera
+estrategia-marketing-digital,Marketing Digital,4.7,81000.0,,,,Coursera
+estrategia-marketing-digital,Marketing Digital,4.7,39000.0,,,,Coursera
+gis,Fundamentals of GIS,4.9,86000.0,,,,Coursera
+elearning,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,4.5,17000.0,,,,Coursera
+excel-vba-for-creative-problem-solving-part-1,"Excel/VBA for Creative Problem Solving, Part 1",4.8,54000.0,Beginner,English,Algorithms,Coursera
+excel-vba-for-creative-problem-solving-part-1,"Excel/VBA for Creative Problem Solving, Part 1",4.8,54000.0,Beginner,English,Algorithms,Coursera
+international-taxation,Rethinking International Tax Law,4.9,36000.0,,,,Coursera
+understanding-visualization-data,Understanding and Visualizing Data with Python,4.5,30000.0,,,,Coursera
+data-visualization-tableau,Fundamentals of Visualization with Tableau,4.3,81000.0,,,,Coursera
+sas-programming-basics,Getting Started with SAS Programming,4.9,22000.0,,,,Coursera
+uol-machine-learning-for-all,Machine Learning for All,4.7,19000.0,,,,Coursera
+python-databases,Using Databases with Python,4.7,220000.0,,,,Coursera
+addiction-treatment,Addiction Treatment: Clinical Skills for Healthcare Providers,4.9,92000.0,Beginner,,,Coursera
+dino101,Dino 101: Dinosaur Paleobiology,4.9,35000.0,Beginner,,,Coursera
+sports-marketing,Sports Marketing,4.7,12000.0,Intermediate,,,Coursera
+positive-psychology,Positive Psychology,4.7,180000.0,,,,Coursera
+matlab,Introduction to Programming with MATLAB,4.8,270000.0,,,,Coursera
+managing-human-resources,Preparing to Manage Human Resources,4.8,68000.0,,,,Coursera
+solar-energy-basics,Solar Energy Basics,4.8,17000.0,,,,Coursera
+bootstrap-4,Front-End Web UI Frameworks and Tools: Bootstrap 4,4.8,89000.0,,,,Coursera
+google-cloud-java-spring,Building Scalable Java Microservices with Spring Boot and Spring Cloud,3.9,24000.0,,,,Coursera
+forensic-science,Introduction to Forensic Science,4.8,47000.0,All,,,Coursera
+contracts-1,American Contract Law I,4.9,18000.0,Beginner,,,Coursera
+engineering-health-yoga-physiology,Engineering Health: Introduction to Yoga and Physiology,4.7,14000.0,,,,Coursera
+ai-for-medical-diagnosis,AI for Medical Diagnosis,4.6,12000.0,,,,Coursera
+electronics,Introduction to Electronics,4.7,110000.0,,,,Coursera
+international-humanitarian-law,International Humanitarian Law in Theory and Practice,4.8,22000.0,Beginner,,,Coursera
+making-architecture,Making Architecture,4.8,43000.0,,,,Coursera
+model-thinking,Model Thinking,4.8,130000.0,All,,,Coursera
+dyslexia-difficulties,Supporting children with difficulties in reading and writing,4.7,50000.0,,,,Coursera
+innovation-management,Innovation Management,4.6,40000.0,Beginner,,,Coursera
+people-management,The Manager's Toolkit: A Practical Guide to Managing People at Work,4.6,47000.0,All,,,Coursera
+modern-world,"The Modern World, Part One: Global History from 1760 to 1910",4.8,130000.0,Beginner,,,Coursera
+edinburgh-music-theory,Fundamentals of Music Theory,,180000.0,Beginner,,,Coursera
+supply-chain-principles,Supply Chain Principles,4.6,29000.0,,,,Coursera
+gcp-infrastructure-core-services,Essential Google Cloud Infrastructure: Core Services,4.7,68000.0,,,,Coursera
+weight-management-beyond-balancing-calories,Weight Management: Beyond Balancing Calories,4.7,34000.0,,,,Coursera
+human-language,Miracles of Human Language: An Introduction to Linguistics,4.7,120000.0,Beginner,,,Coursera
+java-programming,Java Programming: Solving Problems with Software,4.4,160000.0,,,,Coursera
+motivate-people-teams,Inspiring and Motivating Individuals,4.8,85000.0,,,,Coursera
+competencias-digitales-ofimatica,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",4.8,43000.0,Beginner,,,Coursera
+healing-with-the-arts,Healing with the Arts,4.7,39000.0,,,,Coursera
+wharton-people-analytics,People Analytics,4.5,84000.0,,,,Coursera
+what-is-social,What is Social?,4.6,94000.0,,,,Coursera
+ux-design-fundamentals,UX Design Fundamentals,4.8,25000.0,,,,Coursera
+introclassicalmusic,Introduction to Classical Music,4.9,150000.0,All,,,Coursera
+excel-data-analysis,Introduction to Data Analysis Using Excel,4.7,99000.0,,,,Coursera
+international-criminal-law,Introduction to International Criminal Law,4.8,82000.0,All,,,Coursera
+wharton-fintech-overview-payments-regulations,"FinTech: Foundations, Payments, and Regulations",4.6,12000.0,,,,Coursera
+mythology,Greek and Roman Mythology,4.8,260000.0,All,,,Coursera
+global-energy,Politics and Economics of International Energy,4.7,34000.0,Beginner,,,Coursera
+uva-darden-continous-delivery-devops,Continuous Delivery & DevOps,4.5,26000.0,Beginner,English,Software Development,Coursera
+english-principles,Teach English Now! Foundational Principles,4.9,81000.0,,,,Coursera
+business-model,Business Model Innovation,4.7,13000.0,,,,Coursera
+introtoux-principles-and-processes,Introduction to User Experience Principles and Processes,4.8,16000.0,,,,Coursera
+beyond-the-sustainable-development-goals-addressing-sustainability-and-development,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,4.7,23000.0,,,,Coursera
+process-mining,Process Mining: Data science in Action,4.7,39000.0,Intermediate,,,Coursera
+immunologyfundamentalsimmunitybcells,Fundamentals of Immunology: Innate Immunity and B-Cell Function,4.8,18000.0,,,,Coursera
+wharton-finance,Introduction to Corporate Finance,4.4,130000.0,,,,Coursera
+global-diplomacy-un,Global Diplomacy: the United Nations in the World,4.7,29000.0,,,,Coursera
+algorithmic-toolbox,Algorithmic Toolbox,4.5,220000.0,,,,Coursera
+troubles-spectre-autisme-diagnostic,Troubles du spectre de l'autisme : diagnostic,4.9,54000.0,,,,Coursera
+anatomy403-1x,Anatomy: Musculoskeletal and Integumentary Systems,4.8,20000.0,,,,Coursera
+unraveling-the-cycling-city,Unraveling the Cycling City,,39000.0,,,,Coursera
+crash-course-in-causality,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,4.6,17000.0,,,,Coursera
+business,English for Business and Entrepreneurship,4.9,230000.0,,,,Coursera
+what-is-compliance,What is Compliance?,4.8,62000.0,,,,Coursera
+getting-started-with-google-sheets,Getting Started with Google Sheets,4.6,18000.0,,,,Coursera
+python-for-data-visualization,Data Visualization with Python,4.0,66000.0,,,,Coursera
+negociacion,Negociación exitosa: Estrategias y habilidades esenciales (en español),4.8,95000.0,All,,,Coursera
+decision-making,Data-driven Decision Making,4.5,120000.0,,,,Coursera
+fe-exam,Fundamentals of Engineering Exam Review,4.4,49000.0,,,,Coursera
+gender-sexuality,Gender and Sexuality: Diversity and Inclusion in the Workplace,4.7,14000.0,Beginner,,,Coursera
+uva-darden-managerial-accounting,Managerial Accounting Fundamentals,4.9,11000.0,,,,Coursera
+seo-fundamentals,Search Engine Optimization Fundamentals,4.7,47000.0,,,,Coursera
+essentials-global-health,Essentials of Global Health,4.9,31000.0,All,,,Coursera
+international-security-management,International Security Management,4.7,22000.0,Beginner,,,Coursera
+aws-machine-learning,Getting Started with AWS Machine Learning,4.4,73000.0,,,,Coursera
+arts-heritage,Arts and Heritage Management,4.8,15000.0,All,,,Coursera
+einstein-relativity,Understanding Einstein: The Special Theory of Relativity,4.9,89000.0,Beginner,English,Physics and Astronomy,Coursera
+einstein-relativity,Understanding Einstein: The Special Theory of Relativity,4.9,89000.0,Beginner,English,Physics and Astronomy,Coursera
+einstein-relativity,Understanding Einstein: The Special Theory of Relativity,4.9,89000.0,Beginner,English,Physics and Astronomy,Coursera
+reussir-le-changement,Réussir le Changement,4.4,33000.0,All,,,Coursera
+equine,Equine Welfare and Management,4.9,72000.0,,,,Coursera
+international-migrations,International migrations: a global issue,4.3,11000.0,,,,Coursera
+web-development,Introduction to Web Development,4.7,76000.0,,,,Coursera
+access-control-sscp,Access Controls,4.5,29000.0,,,,Coursera
+initiating-planning,Engineering Project Management: Initiating and Planning,4.8,23000.0,,,,Coursera
+kotlin-for-java-developers,Kotlin for Java Developers,4.6,37000.0,,,,Coursera
+multivariate-calculus-machine-learning,Mathematics for Machine Learning: Multivariate Calculus,4.6,51000.0,,,,Coursera
+addiction-and-the-brain,The Addicted Brain,4.5,130000.0,,,,Coursera
+aprendiendo-programar-python,Introducción a la programación en Python I: Aprendiendo a programar con Python,4.2,100000.0,Beginner,,,Coursera
+data-lakes-data-warehouses-gcp,Modernizing Data Lakes and Data Warehouses with GCP,4.6,91000.0,,,,Coursera
+drug-discovery,Drug Discovery,4.6,39000.0,,,,Coursera
+nutrition-pregnancy,Nutrition and Lifestyle in Pregnancy,4.8,35000.0,Intermediate,,,Coursera
+finance-healthcare-managers,Financial Acumen for Non-Financial Managers,4.3,10000.0,,,,Coursera
+python-statistics-financial-analysis,Python and Statistics for Financial Analysis,4.3,41000.0,,,,Coursera
+bugs-101,Bugs 101: Insect-Human Interactions,5.0,15000.0,Beginner,,,Coursera
+autodesk-revit-architectural-design,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,4.7,97000.0,,,,Coursera
+leading-for-equity-diversity-inclusion,"Leading for Equity, Diversity and Inclusion in Higher Education",4.7,59000.0,,,,Coursera
+marketing-plan,Digital Media and Marketing Strategies,,57000.0,,,,Coursera
+enterprise-architecture,Enterprise Architecture,4.5,24000.0,,,,Coursera
+wharton-introduction-spreadsheets-models,Introduction to Spreadsheets and Models,3.6,76000.0,,,,Coursera
+human-needs,The Arts and Science of Relationships: Understanding Human Needs,4.4,73000.0,Beginner,,,Coursera
+clinicalsimulations,Essentials in Clinical Simulations Across the Health Professions,4.8,41000.0,Intermediate,,,Coursera
+schedule-projects,Budgeting and Scheduling Projects,4.7,84000.0,,English,Leadership and Management,Coursera
+machine-learning-business-professionals,Machine Learning for Business Professionals,4.6,58000.0,,,,Coursera
+spanish-vocabulary-meeting-people,Spanish Vocabulary: Meeting People,4.5,71000.0,,,,Coursera
+public-policy,Public Policy Challenges of the 21st Century,4.6,52000.0,,,,Coursera
+arbitration-international-disputes,International Law in Action: the Arbitration of International Disputes,4.9,19000.0,All,,,Coursera
+infrastructure-investing,Financing and Investing in Infrastructure,4.8,24000.0,All,,,Coursera
+global-environmental-management,Global Environmental Management,4.7,22000.0,Intermediate,,,Coursera
+wharton-operations-analytics,Operations Analytics,4.7,80000.0,,,,Coursera
+entrepreneurship-strategy,Entrepreneurship Strategy: From Ideation to Exit,1.0,20000.0,,,,Coursera
+fintechlawandpolicy,FinTech Law and Policy,4.8,97000.0,,,,Coursera
+mental-health,The Social Context of Mental Health and Illness,4.6,19000.0,All,,,Coursera
+contemporary-art,What Is Contemporary Art?,4.8,120000.0,,,,Coursera
+producing-music,The Art of Music Production,4.8,47000.0,,,,Coursera
+biohacking-your-brains-health,Biohacking Your Brain's Health,4.7,35000.0,,,,Coursera
+bayesian-statistics,Bayesian Statistics: From Concept to Data Analysis,4.4,91000.0,,,,Coursera
+reporting-extra-financier-strategie-rse,Reporting extra-financier et stratégie RSE,4.6,52000.0,,,,Coursera
+quality-healthcare,Leading Healthcare Quality and Safety,4.8,16000.0,Beginner,,,Coursera
+excel-para-negocios,Fundamentos de Excel para Negocios,4.8,150000.0,Beginner,,,Coursera
+gcp-infrastructure-scaling-automation,Elastic Google Cloud Infrastructure: Scaling and Automation,4.6,57000.0,,,,Coursera
+finanzas-empresariales,Fundamentos de Finanzas Empresariales,4.9,110000.0,Beginner,,,Coursera
+gte-sustainable-cities,Greening the Economy: Sustainable Cities,4.6,56000.0,,,,Coursera
+engineering-mechanics-statics,Introduction to Engineering Mechanics,4.8,150000.0,All,,,Coursera
+design-strategy,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,4.6,19000.0,Intermediate,,,Coursera
+bioinformatics,Biology Meets Programming: Bioinformatics for Beginners,4.1,88000.0,Beginner,,,Coursera
+medical-research,Understanding Medical Research: Your Facebook Friend is Wrong,4.9,24000.0,Beginner,,,Coursera
+mindshift,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,4.8,230000.0,Beginner,,,Coursera
+programming-fundamentals,Programming Fundamentals,4.6,19000.0,,,,Coursera
+painting,In the Studio: Postwar Abstract Painting,4.9,79000.0,Beginner,,,Coursera
+drug-commercialization,Drug Commercialization,4.6,17000.0,,,,Coursera
+norms,"Social Norms, Social Change I",4.6,78000.0,Beginner,,,Coursera
+excel-intermediate-2,Excel Skills for Business: Intermediate II,4.7,39000.0,,,,Coursera
+aboriginal-education,Aboriginal Worldviews and Education,4.6,66000.0,,,,Coursera
+writing-for-business,Business Writing,4.8,48000.0,,,,Coursera
+autodesk-autocad-design-drafting,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,4.7,22000.0,,,,Coursera
+typography,Introduction to Typography,4.8,72000.0,,,,Coursera
+customer-segmentation-prospecting,Customer Segmentation and Prospecting,4.7,18000.0,,,,Coursera
+journalism,English for Journalism,4.8,130000.0,All,,,Coursera
+how-things-work,How Things Work: An Introduction to Physics,4.8,170000.0,Intermediate,English,Physics and Astronomy,Coursera
+how-things-work,How Things Work: An Introduction to Physics,4.8,170000.0,Intermediate,English,Physics and Astronomy,Coursera
+business-english-intro,Business English: Networking,4.8,77000.0,,,,Coursera
+summary-statistics,Summary Statistics in Public Health,4.8,11000.0,,,,Coursera
+changing-global-order,The Changing Global Order,,23000.0,,,,Coursera
+globalenergyandclimatepolicy,Global Energy and Climate Policy,4.6,10000.0,Beginner,,,Coursera
+legaltech,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,5.0,15000.0,Beginner,Spanish,Leadership and Management,Coursera
+probability-statistics,Probability and Statistics: To p or not to p?,4.7,36000.0,Beginner,,,Coursera
+microbiome,Gut Check: Exploring Your Microbiome,4.7,62000.0,All,,,Coursera
+erasmus-econometrics,Econometrics: Methods and Applications,4.5,110000.0,All,,,Coursera
+analytics-excel,Mastering Data Analysis in Excel,3.7,280000.0,,,,Coursera
+basic-statistics,Basic Statistics,4.6,180000.0,,,,Coursera
+python-data-visualization,"Capstone: Retrieving, Processing, and Visualizing Data with Python",4.5,82000.0,,,,Coursera
+uva-darden-design-thinking-social-sector,Design Thinking for the Greater Good: Innovation in the Social Sector,4.6,17000.0,,,,Coursera
+introduction-portfolio-construction-python,Introduction to Portfolio Construction and Analysis with Python,4.8,11000.0,,,,Coursera
+data-analytics-for-lean-six-sigma,Data Analytics for Lean Six Sigma,4.9,24000.0,Beginner,,,Coursera
+business-transformation-google-cloud,Business Transformation with Google Cloud,4.7,10000.0,,,,Coursera
+version-control-with-git,Version Control with Git,4.7,40000.0,,,,Coursera
+transmedia-storytelling,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",4.7,45000.0,All,,,Coursera
+conversational-experiences-dialogflow,Building Conversational Experiences with Dialogflow,4.2,22000.0,,,,Coursera
+guitar,Guitar for Beginners,4.7,210000.0,,,,Coursera
+project-risk-management,Managing Project Risks and Changes,4.8,71000.0,,,,Coursera
+excellence-operationnelle,L'excellence opérationnelle en pratique,4.7,8000.0,Beginner,,,Coursera
+introduction-to-cloud,Introduction to Cloud Computing,4.8,26000.0,,,,Coursera
+sample-based-learning-methods,Sample-based Learning Methods,4.4,68000.0,,,,Coursera
+progfun1,Functional Programming Principles in Scala,4.7,170000.0,,,,Coursera
+introduction-blockchain-technologies,Introduction to Blockchain Technologies,4.7,16000.0,,,,Coursera
+environmental-law,Introduction to Environmental Law and Policy,4.9,34000.0,All,,,Coursera
+exposure-photography,"Cameras, Exposure, and Photography",4.7,130000.0,,,,Coursera
+democracia,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,4.9,44000.0,Beginner,,,Coursera
+dentistry101,Dentistry 101,4.8,45000.0,,,,Coursera
+python-functions-files-dictionaries,"Python Functions, Files, and Dictionaries",4.8,26000.0,,,,Coursera
+anticorrupcion-introduccion,Anticorrupción: Introducción a conceptos y perspectiva práctica,4.9,11000.0,Beginner,,,Coursera
+positive-psychology-applications,Positive Psychology: Applications and Interventions,4.7,23000.0,,,,Coursera
+introduction-embedded-systems,Introduction to Embedded Systems Software and Development Environments,4.3,41000.0,,,,Coursera
+law-student,A Law Student's Toolkit,4.7,91000.0,All,,,Coursera
+intro-data-science-programacion-estadistica-r,Introducción a Data Science: Programación Estadística con R,4.7,140000.0,Beginner,,,Coursera
+mindfulness,De-Mystifying Mindfulness,,150000.0,Beginner,,,Coursera
+smart-cities,Smart Cities – Management of Smart Urban Infrastructures,4.6,22000.0,Beginner,,,Coursera
+golang-getting-started,Getting Started with Go,4.4,59000.0,,,,Coursera
+probabilistic-graphical-models,Probabilistic Graphical Models 1: Representation,,68000.0,,,,Coursera
+principles-of-microeconomics,The Power of Microeconomics: Economic Principles in the Real World,4.6,120000.0,,,,Coursera
+personal-branding,Introduction to Personal Branding,4.4,140000.0,Beginner,,,Coursera
+love-social-justice,Love as a Force for Social Justice,4.7,14000.0,Beginner,,,Coursera
+genetics-evolution,Introduction to Genetics and Evolution,4.8,74000.0,All,,,Coursera
+python-osnovy-programmirovaniya,Основы программирования на Python,4.3,83000.0,,,,Coursera
+introduction-trading-machine-learning-gcp,"Introduction to Trading, Machine Learning & GCP",3.5,13000.0,,,,Coursera
+modern-world-2,"The Modern World, Part Two: Global History since 1910",4.8,47000.0,Beginner,,,Coursera
+plantknows,Understanding Plants - Part I: What a Plant Knows,4.8,49000.0,Beginner,,,Coursera
+finanzas-personales,Finanzas personales,4.8,310000.0,All,,,Coursera
+english-composition,English Composition I,4.6,200000.0,Beginner,,,Coursera
+intro-self-driving-cars,Introduction to Self-Driving Cars,4.6,39000.0,,,,Coursera
+corporate-commercial-law-part1,Corporate & Commercial Law I: Contracts & Employment Law,4.8,10000.0,,,,Coursera
+uva-darden-foundations-business-strategy,Foundations of Business Strategy,4.8,63000.0,,,,Coursera
+ciencia-computacao-python-conceitos,Introdução à Ciência da Computação com Python Parte 1,4.9,120000.0,Beginner,Portuguese,Software Development,Coursera
+innovation-through-design,"Innovation Through Design: Think, Make, Break, Repeat",4.8,10000.0,Beginner,,,Coursera
+perfect-tenses-modals,Perfect Tenses and Modals,4.8,79000.0,,,,Coursera
+revisao-sistematica,Revisão Sistemática e Meta-análise,4.9,17000.0,Intermediate,,,Coursera
+aprendiendo-a-aprender,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),4.9,180000.0,Beginner,,,Coursera
+batch-data-pipelines-gcp,Building Batch Data Pipelines on GCP,4.3,73000.0,,,,Coursera
+quantitative-methods,Quantitative Methods,4.7,69000.0,,English,Research Methods,Coursera
+quantitative-methods,Quantitative Methods,4.7,69000.0,,English,Research Methods,Coursera
+technology-of-music-production,The Technology of Music Production,4.9,28000.0,,,,Coursera
+intro-programming,Code Yourself! An Introduction to Programming,4.8,120000.0,Beginner,,,Coursera
+wharton-success,Success,4.9,38000.0,,,,Coursera
+chemicals-health,Chemicals and Health,4.8,23000.0,Beginner,,,Coursera
+object-oriented-design,Object-Oriented Design,4.5,33000.0,,,,Coursera
+introduction-intellectual-property,Introduction to Intellectual Property,4.8,6000.0,,,,Coursera
+uva-darden-bcg-pricing-strategy-cost-economics,Cost and Economics in Pricing Strategy,4.8,15000.0,,,,Coursera
+write-a-feature-length-screenplay-for-film-or-television,Write A Feature Length Screenplay For Film Or Television,4.6,12000.0,Beginner,,,Coursera
+marketing-gerencial,Marketing Gerencial,4.7,49000.0,Intermediate,,,Coursera
+corporate-finance-essentials,Corporate Finance Essentials,4.9,56000.0,,,,Coursera
+information-security-data,Information Security: Context and Introduction,4.7,32000.0,,,,Coursera
+trunk-anatomy,"Anatomy of the Chest, Abdomen, and Pelvis",4.8,36000.0,,,,Coursera
+introcss,Introduction to CSS3,4.8,84000.0,,,,Coursera
+applied-data-science-capstone,Applied Data Science Capstone,4.5,42000.0,,,,Coursera
+droits-de-lhomme,Introduction aux Droits de l’Homme,4.9,46000.0,All,,,Coursera
+leadership-21st-century,Leadership in 21st Century Organizations,4.7,34000.0,All,,,Coursera
+software-processes-and-agile-practices,Software Processes and Agile Practices,4.7,60000.0,,,,Coursera
+introduction-statistics-data-analysis-public-health,Introduction to Statistics & Data Analysis in Public Health,4.7,12000.0,,,,Coursera
+discrete-optimization,Discrete Optimization,4.8,40000.0,Intermediate,,,Coursera
+c-plus-plus-white,Основы разработки на C++: белый пояс,4.7,41000.0,,,,Coursera
+epidemiology-tools,Essential Epidemiologic Tools for Public Health Practice,4.6,14000.0,,,,Coursera
+epigenetics,Epigenetic Control of Gene Expression,1.0,35000.0,All,,,Coursera
+recruiting-hiring-onboarding-employees,"Recruiting, Hiring, and Onboarding Employees",3.8,35000.0,,,,Coursera
+aws-fundamentals-addressing-security-risk,AWS Fundamentals: Addressing Security Risk,4.2,11000.0,,,,Coursera
+social-innovation,Becoming a changemaker: Introduction to Social Innovation,4.2,61000.0,Beginner,,,Coursera
+systems-engineering,Introduction to Systems Engineering,4.7,33000.0,All,,,Coursera
+analytics-tableau,Data Visualization and Communication with Tableau,,130000.0,,,,Coursera
+mcmc-bayesian-statistics,Bayesian Statistics: Techniques and Models,4.8,29000.0,,,,Coursera
+intercultural,Intercultural Management,4.4,65000.0,,,,Coursera
+getinmooc,Get Interactive: Practical Teaching with Technology,4.8,14000.0,Beginner,,,Coursera
+global-financial-markets-instruments,Global Financial Markets and Instruments,4.3,37000.0,,,,Coursera
+write-your-first-novel,Write Your First Novel,3.8,18000.0,Beginner,,,Coursera
+songwriting-lyrics,Songwriting: Writing the Lyrics,4.8,68000.0,,,,Coursera
+python-plotting,"Applied Plotting, Charting & Data Representation in Python",4.3,97000.0,,,,Coursera
+systems-thinking,Systems Thinking In Public Health,4.5,33000.0,All,,,Coursera
+excel-advanced,Excel Skills for Business: Advanced,4.7,39000.0,,,,Coursera
+global-financial-crisis,The Global Financial Crisis,4.9,84000.0,All,,,Coursera
+upravleniya-proektami-agile-scrum,Agile и Scrum в работе над проектами и продуктами,4.7,12000.0,,,,Coursera
+renewable-energy-entrepreneurship,Renewable Energy and Green Building Entrepreneurship,4.7,24000.0,Beginner,,,Coursera
+the-cycle,The Cycle: Management of Successful Arts and Cultural Organizations,4.9,11000.0,Beginner,,,Coursera
+digital-business-models,Digital Business Models,4.5,21000.0,,,,Coursera
+introduction-to-computer-programming,Introduction to Computer Programming,3.9,20000.0,,,,Coursera
+dermatology,Dermatology: Trip to skin,4.1,82000.0,,,,Coursera
+sustainable-tourism,Sustainable Tourism – promoting environmental public health,4.5,94000.0,Beginner,,,Coursera
+c-for-everyone,C for Everyone: Programming Fundamentals,4.5,31000.0,,,,Coursera
+social-economic-networks,Social and Economic Networks:  Models and Analysis,1.0,42000.0,Expert,,,Coursera
+cats-and-dogs,The Truth About Cats and Dogs,4.8,33000.0,All,,,Coursera
+sports-society,Sports and Society,4.9,16000.0,All,,,Coursera
+effective-compliance-programs,Effective Compliance Programs,4.9,34000.0,,English,Business Essentials,Coursera
+curanderismo-plants,Curanderismo: Traditional Healing Using Plants,1.0,55000.0,,,,Coursera
+python-machine-learning,Applied Machine Learning in Python,4.5,150000.0,,,,Coursera
+correccion-estilo-variaciones,"Corrección, estilo y  variaciones de la lengua española",4.7,75000.0,Beginner,,,Coursera
+fondamentaux-negociation,Les Fondamentaux de la Négociation,4.9,10000.0,Beginner,,,Coursera
+success,The Science of Success: What Researchers Know that You Should Know,4.8,59000.0,Beginner,,,Coursera
+finance-for-non-financial-managers,Finance for Non-Financial Managers,4.1,12000.0,,,,Coursera
+music-theory,Getting Started With Music Theory,4.3,59000.0,,,,Coursera
+horse-care,The Horse Course: Introduction to Basic Care and Management,4.9,29000.0,All,,,Coursera
+gestion-organizaciones-efectivas,Gestión de organizaciones efectivas,4.8,47000.0,All,,,Coursera
+big-data-introduction,Introduction to Big Data,4.6,160000.0,,,,Coursera
+ecology-conservation,Ecology: Ecosystem Dynamics and Conservation,4.9,18000.0,Intermediate,,,Coursera
+game-development,Introduction to Game Development,4.8,79000.0,,,,Coursera
+practical-time-series-analysis,Practical Time Series Analysis,4.5,39000.0,Intermediate,,,Coursera
+google-kubernetes-engine,Getting Started with Google Kubernetes Engine,4.2,75000.0,,,,Coursera
+six-sigma-organization-advanced,Six Sigma and the Organization (Advanced),4.7,15000.0,,,,Coursera
+wharton-launching-startup,Entrepreneurship 2: Launching your Start-Up,4.8,38000.0,,,,Coursera
+nanotechnology,Nanotechnology: A Maker’s Course,4.8,21000.0,All,,,Coursera
+creative-problem-solving,Creative Problem Solving,4.5,140000.0,,,,Coursera
+sleep,"Sleep: Neurobiology, Medicine, and Society",4.7,20000.0,Beginner,,,Coursera
+covid-19-what-you-need-to-know,COVID-19: What You Need to Know (CME Eligible),4.8,32000.0,,,,Coursera
+classical-sociological-theory,Classical Sociological Theory,4.9,51000.0,All,,,Coursera
+electricity,Electric Industry Operations and Markets,4.7,12000.0,Beginner,,,Coursera
+wharton-financial-accounting,More Introduction to Financial Accounting,4.8,40000.0,,,,Coursera
+dairy-production,Dairy Production and Management,,23000.0,All,,,Coursera
+understanding-arguments,Think Again I: How to Understand Arguments,4.6,200000.0,,,,Coursera
+develop-your-musicianship,Developing Your Musicianship,4.8,41000.0,,,,Coursera
+develop-your-musicianship,Developing Your Musicianship,4.8,54000.0,,,,Coursera
+wharton-operations,Introduction to Operations Management,4.3,87000.0,,,,Coursera
+oralcavity,The Oral Cavity: Portal to Health and Disease,4.9,94000.0,Intermediate,,,Coursera
+preparing-cloud-associate-cloud-engineer-exam,Preparing for the Google Cloud Associate Cloud Engineer Exam,4.5,22000.0,,,,Coursera
+neuroscience-neuroimaging,Fundamental Neuroscience for Neuroimaging,4.6,30000.0,,,,Coursera
+teachlanguageonline,Teach English Now! Teaching Language Online,4.5,85000.0,,,,Coursera
+front-end-react,Front-End Web Development with React,4.6,45000.0,,,,Coursera
+music-business-foundations,Music Business Foundations,4.9,34000.0,,,,Coursera
+intro-business-analytics,Introduction to Business Analytics: Communicating with Data,4.6,14000.0,,,,Coursera
+security-safety-globalized-world,Security & Safety Challenges in a Globalized World,,14000.0,Beginner,,,Coursera
+ml-foundations,Machine Learning Foundations: A Case Study Approach,4.5,240000.0,,,,Coursera
+accounting-analytics,Accounting Analytics,4.4,80000.0,,,,Coursera
+strategic-business-management-microeconomics,Strategic Business Management - Microeconomics,4.8,95000.0,,,,Coursera
+epidemic-pandemic-outbreak,"Epidemics, Pandemics and Outbreaks",4.7,23000.0,,,,Coursera
+roman-architecture,Roman Architecture,4.9,30000.0,Beginner,,,Coursera
+data-management,Research Data Management and Sharing,4.7,16000.0,All,,,Coursera
+introduction-genomics,Introduction to Genomic Technologies,4.5,42000.0,,,,Coursera
+strategic-management,Strategic Management,4.8,58000.0,,,,Coursera
+legal-tech-startups,Legal Tech & Startups,4.4,72000.0,,,,Coursera
+intro-chemistry,Introduction to Chemistry:  Reactions and Ratios,4.8,46000.0,Beginner,,,Coursera
+stem-cells,The Science of Stem Cells,4.7,12000.0,Intermediate,,,Coursera
+positive-psychology-resilience,Positive Psychology: Resilience Skills,4.9,40000.0,,,,Coursera
+ai-for-medical-prognosis,AI for Medical Prognosis,4.7,4000.0,,,,Coursera
+antibiotic-stewardship,Antibiotic Stewardship,4.2,11000.0,Expert,,,Coursera
+emt-foundations,EMT Foundations,4.8,71000.0,,,,Coursera
+iiot-google-cloud-platform,Industrial IoT on Google Cloud Platform,4.5,34000.0,,,,Coursera
+role-of-advertising,Advertising and Society,4.8,14000.0,All,,,Coursera
+countering-terror-violent-extremism,New Approaches to Countering Terror: Countering Violent Extremism,4.8,12000.0,,,,Coursera
+magic-middle-ages,Magic in the Middle Ages,4.5,78000.0,Beginner,,,Coursera
+challenging-forensic-science,Challenging Forensic Science: How Science Should Speak to Court,4.9,31000.0,Beginner,,,Coursera
+corporatestrategy,Corporate Strategy,4.9,78000.0,Beginner,,,Coursera
+actualizacion-manejo-diabetes-tipo-2,Actualización en el manejo del paciente con diabetes mellitus tipo 2,4.8,23000.0,All,,,Coursera
+mastering-final-cut-pro,Mastering Final Cut Pro,4.5,84000.0,,,,Coursera
+tricky-american-english-pronunciation,Tricky American English Pronunciation,4.7,110000.0,,,,Coursera
+international-law-in-action,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,4.8,36000.0,All,,,Coursera
+geopolitics-europe,Geopolitics of Europe,3.7,19000.0,All,,,Coursera
+truthinourbones-osteoarchaeology-archaeology,Osteoarchaeology: The Truth in Our Bones,4.6,22000.0,,,,Coursera
+pca-machine-learning,Mathematics for Machine Learning: PCA,3.4,33000.0,,,,Coursera
+object-oriented-java,Object Oriented Programming in Java,4.7,330000.0,,,,Coursera
+mathematics-and-python,Математика и Python для анализа данных,4.6,67000.0,,,,Coursera
+aulaconstructivista,Hacia una práctica constructivista en el aula,4.9,62000.0,All,,,Coursera
+data-science-course,A Crash Course in Data Science,,130000.0,,,,Coursera
